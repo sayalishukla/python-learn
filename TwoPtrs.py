@@ -25,3 +25,6 @@ if __name__ == "__main__":
     nums = [0,1,3,0,5,0,10]
     sol.moveZeroes(nums)
     print(nums)
+    nums1 = [5, 4, 0, 10, 7, 0, 1]
+    sol.moveZeroes(nums1)
+    print(nums1)
